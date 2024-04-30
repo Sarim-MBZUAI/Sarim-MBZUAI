@@ -62,6 +62,3 @@ I am a Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with 
 ![Calculus](https://img.shields.io/badge/calculus-blueviolet)
 
 ---
-## Find me around the web :globe_with_meridians:
-[![DEV Badge](https://img.shields.io/badge/-iabhishekbasu-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/Sarim-MBZUAI)
-[![StackOverflow Badge](https://img.shields.io/badge/-iabhishekbasu-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/14384573/abhishek-basu?tab=profile)
