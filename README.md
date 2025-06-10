@@ -14,7 +14,7 @@ The original question, 'Can machines think?' I believe to be too meaningless to 
 I am a Computer Vision graduate student at [MBZUAI](https://mbzuai.ac.ae/) with a 100% scholarship; previously, I pursued my undergraduate degree in Mechanical Engineering at the [Jamia Millia Islamia](https://jmi.ac.in/index). I am passionate about Computer Vision :computer: Deep Learning :crossed_swords: and open source :octocat:.I love taking up projects for fun and make sure they see the light of the day.
 
 - 🌱 I'm currently researching about [Medical Imaging]()
-- 👨🏽‍💻 I'm currently working on vision language models , deep fake detection and Explainable AI
+- 👨🏽‍💻 I'm currently working on vision language models , deep fake detection and Conversational llm
 - 👯 I'm looking to collaborate on any Machine Learning/ Computer Vision project which seems interesting or useful
 - 💬 Talk to me about **Books**, **Cubing**, **UFC** and anything related to **Technology**.
 - 📫 How to reach me: Use any of the [badges](#hi-there-Sarim-) above
