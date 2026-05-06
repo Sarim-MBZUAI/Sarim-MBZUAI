@@ -15,9 +15,9 @@ I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working on secure, 
 
 Previously, I completed my MSc by Research in Computer Vision at MBZUAI and my undergraduate degree in Mechanical Engineering from [Jamia Millia Islamia](https://jmi.ac.in/index). Passionate about AI security, computer vision, deep learning, and open source :computer: :crossed_swords: :octocat:
 
-- 🌱 I'm currently researching about [Medical Imaging]()
-- 👨🏽‍💻 I'm currently working on vision language models , deep fake detection and Conversational llm
-- 👯 I'm looking to collaborate on any Machine Learning/ Computer Vision project which seems interesting or useful
+- 🌱 I am currently researching about on secure, private, and strategic machine learning.
+- 👨🏽‍💻 I am currently working on vision language models , deep fake detection and Conversational llm
+- 👯 I am looking to collaborate on any Machine Learning/ Computer Vision project which seems interesting or useful
 - 💬 Talk to me about **Books**, **Cubing**, **UFC** and anything related to **Technology**.
 - 📫 How to reach me: Use any of the [badges](#hi-there-Sarim-) above
 
