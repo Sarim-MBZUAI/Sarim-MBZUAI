@@ -1,4 +1,4 @@
-## Hi there, I'm Sarim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨🏻‍💻 🇦🇪 <--> 🇮🇳
+## Hi there, I'm Sarim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨🏻‍💻 :united_arab_emirates: <--> :india:
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Sarim+Hashmi;Research+Engineer+at+MBZUAI;AI+Security+for+LLM+Agents;Secure+%7C+Private+%7C+Strategic+ML)](https://sarim-mbzuai.github.io/)
@@ -39,11 +39,11 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 
 ## Highlights
 - 🏆 Winner, Cursor x Evoost AI Hackathon 2026 · 🥇 1st place, TAMMathon 2025 · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
-- 🇦🇪 UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
+- :united_arab_emirates: UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
 
 
 ## Some of my Github Public Stats
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Sarim-MBZUAI&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Sarim-MBZUAI)
+[![My Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sarim-MBZUAI&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Sarim-MBZUAI)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sarim-MBZUAI&color=blue)
 
