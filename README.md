@@ -27,6 +27,7 @@ Previously, I completed my MSc by Research in Computer Vision at MBZUAI under [D
 ## Selected Publications
 <sub>\* equal contribution</sub>
 
+- **Under review** · [Certification of Real Images through Calibrated Content Authentication](https://arxiv.org/abs/2610.05870) · **S. Hashmi**, A. Elsayed, M. T. Alam, S. Poppi, N. Lukas
 - **Under review** · AdvSim2Real: Training Web Agents Against Adaptive Prompt Injection in a Web World Model · **S. Hashmi**, M. Ranjan, K. Mishra, M. Kuznetsov, P. Vepakomma, N. Lukas
 - **Under review** · [Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering](https://arxiv.org/abs/2610.05894) · **S. Hashmi\***, M. Ranjan\*, A. Elsayed, M. U. Sheikh, F. Shamshad, N. Lukas
 - **ACL 2026** · [CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark](https://arxiv.org/abs/2505.16968) · A. Heakl, **S. Hashmi\***, G. B. Stahl\*, et al.
