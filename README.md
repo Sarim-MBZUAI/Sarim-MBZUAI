@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarim.hashmi@mbzuai.ac.ae "Connect via Email")
 
 ```
-The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes. ~ Avicenna (Ibn Sina).
+The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes. ~ ابن سینا (Ibn Sina).
 ```
 
 I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working with [Dr. Nils Lukas](https://nilslukas.github.io) on secure, private, and strategic machine learning. My research focuses on language-model agents that rely on retrieval, memory, and tools, where many critical failures come from the surrounding pipeline rather than the base model itself. Current work includes [Etihad Airways](https://www.etihad.com/)' conversational agent, [AdvSim2Real](https://arxiv.org/abs/2610.08773) (adversarial simulation for agentic systems), PERSUADE (auditing persuasion in LLMs), [authentic multimedia detection](https://arxiv.org/abs/2610.05870), and [vision-language robustness](https://github.com/Sarim-MBZUAI/prompt_sensitivity). **I am currently looking for PhD positions in AI security**, with a focus on agents that use retrieval, memory, and tools.
