@@ -4,10 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Sarim+Hashmi;Research+Engineer+at+MBZUAI;AI+Security+for+LLM+Agents;Secure+%7C+Private+%7C+Strategic+ML)](https://sarim-mbzuai.github.io/)
 ---
 
-[![Website Badge](https://img.shields.io/badge/-sarim--mbzuai.github.io-F7A338?style=flat&logo=googlechrome&logoColor=white)](https://sarim-mbzuai.github.io/ "Personal website")
-[![Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RMcwdxkAAAAJ&hl=en "Google Scholar")
-[![Linkedin Badge](https://img.shields.io/badge/-Sarim%20Hashmi-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarim-hashmi-b10b35136/ "Connect on LinkedIn")
-[![Gmail Badge](https://img.shields.io/badge/-sarim.hashmi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sarim.hashmi@mbzuai.ac.ae "Connect via Email")
+[![Website Badge](https://img.shields.io/badge/Website-F7A338?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjBNMTIgMmExNSAxNSAwIDAxMCAyMGExNSAxNSAwIDAxMC0yMCIvPjwvc3ZnPg%3D%3D)](https://sarim-mbzuai.github.io/ "Personal website")
+[![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RMcwdxkAAAAJ&hl=en "Google Scholar")
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMTEwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMDEwIDQuMTI1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/sarim-hashmi-b10b35136/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarim.hashmi@mbzuai.ac.ae "Connect via Email")
 
 ```
 The original question, 'Can machines think?' I believe to be too meaningless to deserve discussion. ~ Alan Turing.
