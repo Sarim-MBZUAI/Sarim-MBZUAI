@@ -13,7 +13,7 @@
 The original question, 'Can machines think?' I believe to be too meaningless to deserve discussion. ~ Alan Turing.
 ```
 
-I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working with [Dr. Nils Lukas](https://nilslukas.github.io) on secure, private, and strategic machine learning. My research focuses on language-model agents that rely on retrieval, memory, and tools, where many critical failures come from the surrounding pipeline rather than the base model itself. Current work includes [Etihad Airways](https://www.etihad.com/)' conversational agent, AdvSim2Real (adversarial simulation for agentic systems), PERSUADE (auditing persuasion in LLMs), authentic multimedia detection, and vision-language robustness. **I am currently looking for PhD positions in AI security**, with a focus on agents that use retrieval, memory, and tools.
+I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working with [Dr. Nils Lukas](https://nilslukas.github.io) on secure, private, and strategic machine learning. My research focuses on language-model agents that rely on retrieval, memory, and tools, where many critical failures come from the surrounding pipeline rather than the base model itself. Current work includes [Etihad Airways](https://www.etihad.com/)' conversational agent, [AdvSim2Real](https://arxiv.org/abs/2610.08773) (adversarial simulation for agentic systems), PERSUADE (auditing persuasion in LLMs), [authentic multimedia detection](https://arxiv.org/abs/2610.05870), and [vision-language robustness](https://github.com/Sarim-MBZUAI/prompt_sensitivity). **I am currently looking for PhD positions in AI security**, with a focus on agents that use retrieval, memory, and tools.
 
 Previously, I completed my MSc by Research in Computer Vision at MBZUAI under [Dr. Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/), and my undergraduate degree in Mechanical Engineering from [Jamia Millia Islamia](https://jmi.ac.in/), with autonomous-vehicle research at [IIIT Delhi](https://www.iiitd.ac.in/). Passionate about AI security, computer vision, deep learning, and open source :computer: :crossed_swords: :octocat:
 
@@ -83,9 +83,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1B1B1D?style=flat)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat&logo=crewai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![PEFT / LoRA](https://img.shields.io/badge/PEFT%20/%20LoRA-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![TRL](https://img.shields.io/badge/TRL-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-F59E0B?style=flat&logo=huggingface&logoColor=white)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT%20/%20LoRA-F59E0B?style=flat&logo=huggingface&logoColor=white)
+![TRL](https://img.shields.io/badge/TRL-F59E0B?style=flat&logo=huggingface&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat&logo=vllm&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat)
