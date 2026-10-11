@@ -77,6 +77,28 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
+### :robot: LLM &amp; Agent Stack :
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1B1B1D?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat&logo=crewai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT%20/%20LoRA-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![TRL](https://img.shields.io/badge/TRL-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat&logo=vllm&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-D97757?style=flat&logo=anthropic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-2C3E50?style=flat)
+
 ---
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)
@@ -93,9 +115,5 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 ![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-ff69b4)
 ![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-blueviolet)
 ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-pink)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-9cf)
-![CUDA](https://img.shields.io/badge/CUDA-brightgreen)
-![SLURM](https://img.shields.io/badge/SLURM-lightgrey)
 
 ---
