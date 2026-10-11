@@ -41,7 +41,8 @@ Previously, I completed my MSc by Research in Computer Vision at MBZUAI under [D
 Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkAAAAJ&hl=en).
 
 ## Highlights
-- 🏆 Winner, Cursor x Evoost AI Hackathon 2026 · 🥇 1st place, TAMMathon 2025 · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
+- 🏆 Winner, Amazon Experience Hackathon 2026 (Khalifa University, Abu Dhabi) · 🏆 Winner, Cursor x Evoost AI Hackathon 2026
+- 🥇 1st place, TAMMathon 2025 · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
 - :united_arab_emirates: UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
 
 
@@ -54,31 +55,47 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
 ---
-![Python](https://img.shields.io/badge/Python-blueviolet)
-![PyTorch](https://img.shields.io/badge/PyTorch-red)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)
 ![LLM Agents](https://img.shields.io/badge/LLM%20Agents-success)
 ![AI Security](https://img.shields.io/badge/AI%20Security-critical)
+![Adversarial Robustness](https://img.shields.io/badge/Adversarial%20Robustness-critical)
+![Prompt Injection](https://img.shields.io/badge/Prompt%20Injection-orange)
+![RAG](https://img.shields.io/badge/RAG-informational)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-blueviolet)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-success)
+![Conversational AI](https://img.shields.io/badge/Conversational%20AI-9cf)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-yellowgreen)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow)
-![Weights & Biases](https://img.shields.io/badge/Weights-&%20Biases-9cf)
+![Vision-Language Models](https://img.shields.io/badge/Vision--Language%20Models-yellowgreen)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-ff69b4)
+![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-blueviolet)
 ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-pink)
-![Numpy](https://img.shields.io/badge/Numpy-ff69b4)
-![Pandas](https://img.shields.io/badge/Pandas-yellow)
-![Streamlit](https://img.shields.io/badge/Streamlit-success)
-![Statistics](https://img.shields.io/badge/Statistics-yellowgreen)
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-red)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-9cf)
+![CUDA](https://img.shields.io/badge/CUDA-brightgreen)
+![SLURM](https://img.shields.io/badge/SLURM-lightgrey)
 
 ---
