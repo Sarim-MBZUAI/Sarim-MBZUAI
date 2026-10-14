@@ -32,7 +32,6 @@ I am currently working on adversarial simulation for web agents [AdvSim2Real](ht
 | [AdvSim2Real: Training Web Agents Against Adaptive Prompt Injection](https://arxiv.org/abs/2610.08773) | Under review 2026 |
 | [Noise Out, Bias In: Bias Injection in Diffusion Language Models](https://arxiv.org/abs/2610.05894) | Under review 2026 |
 | PERSUADE: Benchmarking and Auditing Persuasion in LLMs | Under review 2026 |
-| [Robust and Calibrated Detection of Authentic Multimedia](https://arxiv.org/abs/2512.15182) | Under review 2026 |
 | [CASS: Nvidia to AMD Transpilation](https://arxiv.org/abs/2505.16968) | ACL 2026 |
 | [GG: CISC-to-RISC Transpilation with Testing Guarantees](https://arxiv.org/abs/2506.14606) | EMNLP 2025 |
 | [SALT: Singular Value Adaptation with Low-Rank Transformation](https://arxiv.org/abs/2503.16055) | BMVC 2025 |
