@@ -25,18 +25,18 @@ Previously, I completed my MSc by Research in Computer Vision at MBZUAI under [D
 
 
 ## Selected Publications
-<sub>\* equal contribution</sub>
-
-- **Under review** · [Certification of Real Images through Calibrated Content Authentication](https://arxiv.org/abs/2610.05870) · **S. Hashmi**, A. Elsayed, M. T. Alam, S. Poppi, N. Lukas
-- **Under review** · [AdvSim2Real: Training Web Agents Against Adaptive Prompt Injection in a Web World Model](https://arxiv.org/abs/2610.08773) · **S. Hashmi**, M. Ranjan, K. Mishra, M. Kuznetsov, P. Vepakomma, N. Lukas
-- **Under review** · [Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering](https://arxiv.org/abs/2610.05894) · **S. Hashmi\***, M. Ranjan\*, A. Elsayed, M. U. Sheikh, F. Shamshad, N. Lukas
-- **ACL 2026** · [CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark](https://arxiv.org/abs/2505.16968) · A. Heakl, **S. Hashmi\***, G. B. Stahl\*, et al.
-- **Under review** · PERSUADE: A Debate Arena for Benchmarking, Optimizing, and Auditing Persuasion in Language Models · **S. Hashmi**, S. Poppi, S. Lahlou, M. Takáč, K. Mishra, N. Lukas
-- **Under review** · [Robust and Calibrated Detection of Authentic Multimedia Content](https://arxiv.org/abs/2512.15182) · **S. Hashmi**, A. Elsayed, M. T. Alam, S. Poppi, N. Lukas
-- **EMNLP 2025** · [Guaranteed Guess: A Language Modeling Approach for CISC-to-RISC Transpilation with Testing Guarantees](https://arxiv.org/abs/2506.14606) · A. Heakl, **S. Hashmi**, C. Abi, C. Lee, A. Mahmoud
-- **BMVC 2025** · [SALT: Parameter-Efficient Fine-Tuning via Singular Value Adaptation with Low-Rank Transformation](https://arxiv.org/abs/2503.16055) · **S. Hashmi\***, A. Elsayed\*, M. Elseiagy, H. Wang, M. Yaqub, I. Almakky
-- **AAAI Workshop 2025** · [Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models](https://arxiv.org/abs/2501.05478) · M. Mansour\*, A. Aly\*, B. Tharwat\*, **S. Hashmi**, D. An, I. Reid
-- **MICCAI Workshop 2024** · [Optimizing Brain Tumor Segmentation with MedNeXt: BraTS 2024 SSA and Pediatrics](https://arxiv.org/abs/2411.15872) · **S. Hashmi**, J. Lugo, A. Elsayed, et al.
+| Paper | Venue |
+| :-- | :-- |
+| [Certification of Real Images through Calibrated Content Authentication](https://arxiv.org/abs/2610.05870) | Under review 2026 |
+| [AdvSim2Real: Training Web Agents Against Adaptive Prompt Injection](https://arxiv.org/abs/2610.08773) | Under review 2026 |
+| [Noise Out, Bias In: Bias Injection in Diffusion Language Models](https://arxiv.org/abs/2610.05894) | Under review 2026 |
+| PERSUADE: Benchmarking and Auditing Persuasion in LLMs | Under review 2026 |
+| [Robust and Calibrated Detection of Authentic Multimedia](https://arxiv.org/abs/2512.15182) | Under review 2026 |
+| [CASS: Nvidia to AMD Transpilation](https://arxiv.org/abs/2505.16968) | ACL 2026 |
+| [GG: CISC-to-RISC Transpilation with Testing Guarantees](https://arxiv.org/abs/2506.14606) | EMNLP 2025 |
+| [SALT: Singular Value Adaptation with Low-Rank Transformation](https://arxiv.org/abs/2503.16055) | BMVC 2025 |
+| [Language and Planning in Robotic Navigation](https://arxiv.org/abs/2501.05478) | AAAI Workshop 2025 |
+| [MedNeXt for Brain Tumor Segmentation: BraTS 2024](https://arxiv.org/abs/2411.15872) | MICCAI Workshop 2024 |
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkAAAAJ&hl=en).
 
