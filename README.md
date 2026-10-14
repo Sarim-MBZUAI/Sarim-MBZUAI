@@ -22,7 +22,7 @@ The knowledge of anything, since all things have causes, is not acquired or comp
 - 👯 I am looking to collaborate on any Machine Learning / Computer Vision project which seems interesting or useful.
 - 💬 Talk to me about **Books**, **Cubing**, **UFC** and anything related to **Technology**. 📫 Reach me through any of the badges above.
 
-I am currently working on adversarial simulation for web agents [AdvSim2Real](https://arxiv.org/abs/2610.08773), persuasion auditing in LLMs PERSUADE, bias injection in diffusion language models [Noise Out, Bias In](https://arxiv.org/abs/2610.05894), content authentication for real images [Certification](https://arxiv.org/abs/2610.05870), and contextual integrity for agents that use retrieval, memory, and tools.
+I am currently working on adversarial simulation for web agents [AdvSim2Real](https://arxiv.org/abs/2610.08773), persuasion auditing in LLMs PERSUADE, bias injection in diffusion language models [Noise Out, Bias In](https://arxiv.org/abs/2610.05894), [content authentication for real images](https://arxiv.org/abs/2610.05870), and contextual integrity for agents that use retrieval, memory, and tools.
 
 
 ## Selected Publications
