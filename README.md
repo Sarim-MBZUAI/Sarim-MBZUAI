@@ -42,7 +42,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 
 ## Highlights
 - 🏆 Winner, Amazon Experience Hackathon 2026 (Khalifa University, Abu Dhabi) · 🏆 Winner, Cursor x Evoost AI Hackathon 2026
-- 🥇 1st place, TAMMathon 2025 · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
+- 🏆 Winner, TAMMathon 2025 · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
 - :united_arab_emirates: UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
 
 
