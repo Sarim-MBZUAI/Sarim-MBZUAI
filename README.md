@@ -13,15 +13,14 @@
 The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes. ~ ابن سینا (Ibn Sina).
 ```
 
-I am a Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working with [Dr. Nils Lukas](https://nilslukas.github.io) on secure, private, and strategic machine learning. My research focuses on language-model agents that rely on retrieval, memory, and tools, where many critical failures come from the surrounding pipeline rather than the base model itself. Current work includes [Etihad Airways](https://www.etihad.com/)' conversational agent, [AdvSim2Real](https://arxiv.org/abs/2610.08773) (adversarial simulation for agentic systems), PERSUADE (auditing persuasion in LLMs), [authentic multimedia detection](https://arxiv.org/abs/2610.05870), and [vision-language robustness](https://github.com/Sarim-MBZUAI/prompt_sensitivity). **I am currently looking for PhD positions in AI security**, with a focus on agents that use retrieval, memory, and tools.
-
-Previously, I completed my MSc by Research in Computer Vision at MBZUAI under [Dr. Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/), and my undergraduate degree in Mechanical Engineering from [Jamia Millia Islamia](https://jmi.ac.in/), with autonomous-vehicle research at [IIIT Delhi](https://www.iiitd.ac.in/). Passionate about AI security, computer vision, deep learning, and open source :computer: :crossed_swords: :octocat:
-
-- 🌱 I am currently researching secure, private, and strategic machine learning
-- 👨🏽‍💻 I am currently working on LLM agents, persuasion auditing, deepfake detection, and conversational AI
-- 👯 I am looking to collaborate on any Machine Learning / Computer Vision project which seems interesting or useful
-- 💬 Talk to me about **Books**, **Cubing**, **UFC** and anything related to **Technology**
-- 📫 How to reach me: use any of the badges above
+- 🔬 Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working with [Dr. Nils Lukas](https://nilslukas.github.io) on **secure, private, and strategic machine learning**.
+- 🌱 My research focuses on language-model agents that rely on **retrieval, memory, and tools**, where many critical failures come from the surrounding pipeline rather than the base model itself.
+- 👨🏽‍💻 Current work includes [Etihad Airways](https://www.etihad.com/)' conversational agent, [AdvSim2Real](https://arxiv.org/abs/2610.08773) (adversarial simulation for agentic systems), PERSUADE (auditing persuasion in LLMs), [authentic multimedia detection](https://arxiv.org/abs/2610.05870), and [vision-language robustness](https://github.com/Sarim-MBZUAI/prompt_sensitivity).
+- 🎓 **I am currently looking for PhD positions in AI security**, with a focus on agents that use retrieval, memory, and tools.
+- 📚 Previously: MSc by Research in Computer Vision at MBZUAI under [Dr. Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/), and a Mechanical Engineering degree from [Jamia Millia Islamia](https://jmi.ac.in/), with autonomous-vehicle research at [IIIT Delhi](https://www.iiitd.ac.in/).
+- ⚡ Passionate about AI security, computer vision, deep learning, and open source :computer: :crossed_swords: :octocat:
+- 👯 I am looking to collaborate on any Machine Learning / Computer Vision project which seems interesting or useful.
+- 💬 Talk to me about **Books**, **Cubing**, **UFC** and anything related to **Technology** — 📫 reach me through any of the badges above.
 
 
 ## Selected Publications
