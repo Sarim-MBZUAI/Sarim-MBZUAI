@@ -9,9 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMTEwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMDEwIDQuMTI1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/sarim-hashmi-b10b35136/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarim.hashmi@mbzuai.ac.ae "Connect via Email")
 
-```
-The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes. ~ ابن سینا (Ibn Sina).
-```
+> *The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes.* ~ ابن سینا (Ibn Sina)
 
 - 🔬 Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working with [Dr. Nils Lukas](https://nilslukas.github.io) on **secure, private, and strategic machine learning**.
 - 🌱 My research focuses on language-model agents that rely on **retrieval, memory, and tools**, where many critical failures come from the surrounding pipeline rather than the base model itself.
@@ -22,7 +20,7 @@ The knowledge of anything, since all things have causes, is not acquired or comp
 - 👯 I am looking to collaborate on any Machine Learning / Computer Vision project which seems interesting or useful.
 - 💬 Talk to me about **Books**, **Cubing**, **UFC** and anything related to **Technology**. 📫 Reach me through any of the badges above.
 
-I am currently working on adversarial simulation for web agents [AdvSim2Real](https://arxiv.org/abs/2610.08773), persuasion auditing in LLMs PERSUADE, bias injection in diffusion language models [Noise Out, Bias In](https://arxiv.org/abs/2610.05894), [content authentication for real images](https://arxiv.org/abs/2610.05870), and contextual integrity for agents that use retrieval, memory, and tools.
+I am currently working on [adversarial simulation for web agents (AdvSim2Real)](https://arxiv.org/abs/2610.08773), persuasion auditing in LLMs (PERSUADE), [bias injection in diffusion language models (Noise Out, Bias In)](https://arxiv.org/abs/2610.05894), [content authentication for real images](https://arxiv.org/abs/2610.05870), and contextual integrity for agents that use retrieval, memory, and tools.
 
 
 ## Selected Publications
