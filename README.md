@@ -39,9 +39,9 @@ I am currently working on [adversarial simulation for web agents (AdvSim2Real)](
 Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkAAAAJ&hl=en).
 
 ## Highlights
-- 🏆 Winner, Eyes on Heritage Hackathon 2026 (Natural History Museum Abu Dhabi)
-- 🏆 Winner, Amazon Experience Hackathon 2026 (Khalifa University, Abu Dhabi) · 🏆 Winner, Cursor x Evoost AI Hackathon 2026
-- 🏆 Winner, TAMMathon 2025 · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
+- 🏆 Winner, Eyes on Heritage Hackathon 2026 (Natural History Museum Abu Dhabi · AED 8,000 ≈ USD 2,180)
+- 🏆 Winner, Amazon Experience Hackathon 2026 (Khalifa University, Abu Dhabi · AED 9,000 ≈ USD 2,450) · 🏆 Winner, Cursor x Evoost AI Hackathon 2026
+- 🏆 Winner, TAMMathon 2025 (AED 25,000 ≈ USD 6,800) · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
 - :united_arab_emirates: UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
 
 
