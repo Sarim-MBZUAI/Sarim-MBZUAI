@@ -1,4 +1,4 @@
-    ## Hi , I'm <a href="https://sarim-mbzuai.github.io/" title="Personal website"><img alt="Sarim" src="assets/name.svg"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨🏻‍💻 :united_arab_emirates: <--> :india:
+## Hi , I'm <a href="https://sarim-mbzuai.github.io/" title="Personal website"><img alt="Sarim" src="assets/name.svg"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨🏻‍💻 :united_arab_emirates: <--> :india:
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Sarim+Hashmi;Research+Engineer+at+MBZUAI;AI+Security+for+LLM+Agents;Secure+%7C+Private+%7C+Strategic+ML)](https://sarim-mbzuai.github.io/)
