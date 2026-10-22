@@ -46,8 +46,33 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 ![Profile Views](https://komarev.com/ghpvc/?username=Sarim-MBZUAI&color=blue)
 
 
-### :hammer_and_wrench: Tools
-Python · PyTorch · 🤗 Transformers · PEFT / LoRA · TRL · vLLM · LangGraph · MCP · FastAPI · Docker · CUDA · SLURM
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+</div>
 
-### :dart: Interests
-AI security · LLM agents · prompt injection · RAG · fine-tuning · computer vision · vision-language models · diffusion models
+### :robot: LLM &amp; Agent Stack :
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
+![Transformers](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat)
+![PEFT / LoRA](https://img.shields.io/badge/%F0%9F%A4%97%20PEFT%20/%20LoRA-FFD21E?style=flat)
+![TRL](https://img.shields.io/badge/%F0%9F%A4%97%20TRL-FFD21E?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat&logo=vllm&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-D97757?style=flat&logo=anthropic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-2C3E50?style=flat)
