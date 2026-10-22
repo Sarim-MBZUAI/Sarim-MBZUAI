@@ -1,4 +1,4 @@
-## Hi , I'm <a href="https://sarim-mbzuai.github.io/" title="Personal website"><img alt="Sarim" src="assets/name.svg"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨🏻‍💻 :united_arab_emirates: <--> :india:
+    ## Hi , I'm <a href="https://sarim-mbzuai.github.io/" title="Personal website"><img alt="Sarim" src="assets/name.svg"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨🏻‍💻 :united_arab_emirates: <--> :india:
 
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&weight=100&size=50&duration=1500&pause=800&color=F7A338&background=FF68CD00&center=true&width=1500&height=75&lines=Sarim+Hashmi;Research+Engineer+at+MBZUAI;AI+Security+for+LLM+Agents;Secure+%7C+Private+%7C+Strategic+ML)](https://sarim-mbzuai.github.io/)
@@ -11,16 +11,11 @@
 
 > *The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes.* ~ ابن سینا (Ibn Sina)
 
-- 🎓 **I am currently looking for PhD positions in AI security**, with a focus on agents that use retrieval, memory, and tools.
-- 🔬 Research Engineer at [MBZUAI](https://mbzuai.ac.ae/), working with [Dr. Nils Lukas](https://nilslukas.github.io) on **secure, private, and strategic machine learning**.
-- 🌱 My research focuses on language-model agents that rely on **retrieval, memory, and tools**, where many critical failures come from the surrounding pipeline rather than the base model itself.
-- 👨🏽‍💻 Current work includes [Etihad Airways](https://www.etihad.com/)' conversational agent, [AdvSim2Real](https://arxiv.org/abs/2610.08773) (adversarial simulation for agentic systems), PERSUADE (auditing persuasion in LLMs), [authentic multimedia detection](https://arxiv.org/abs/2610.05870), and [vision-language robustness](https://github.com/Sarim-MBZUAI/prompt_sensitivity).
-- 📚 Previously: MSc by Research in Computer Vision at MBZUAI under [Dr. Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/), and a Mechanical Engineering degree from [Jamia Millia Islamia](https://jmi.ac.in/), with autonomous-vehicle research at [IIIT Delhi](https://www.iiitd.ac.in/).
-- ⚡ Passionate about AI security, computer vision, deep learning, and open source :computer: :crossed_swords: :octocat:
-- 👯 I am looking to collaborate on any Machine Learning / Computer Vision project which seems interesting or useful.
-- 💬 Talk to me about **Books**, **Cubing**, **UFC** and anything related to **Technology**. 📫 Reach me through any of the badges above.
-
-I am currently working on [adversarial simulation for web agents (AdvSim2Real)](https://arxiv.org/abs/2610.08773), persuasion auditing in LLMs (PERSUADE), [bias injection in diffusion language models (Noise Out, Bias In)](https://arxiv.org/abs/2610.05894), [content authentication for real images](https://arxiv.org/abs/2610.05870), and contextual integrity for agents that use retrieval, memory, and tools.
+- 🎓 **Looking for PhD positions in AI security**, focused on agents that use retrieval, memory, and tools.
+- 🔬 Research Engineer at [MBZUAI](https://mbzuai.ac.ae/) with [Dr. Nils Lukas](https://nilslukas.github.io), working on secure, private, and strategic machine learning.
+- 🧪 Working on [AdvSim2Real](https://arxiv.org/abs/2610.08773), PERSUADE, [Noise Out, Bias In](https://arxiv.org/abs/2610.05894), [content authentication for real images](https://arxiv.org/abs/2610.05870), and contextual integrity for agents.
+- 📚 Previously: MSc by Research in Computer Vision at MBZUAI under [Dr. Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/); Mechanical Engineering at [Jamia Millia Islamia](https://jmi.ac.in/); autonomous-vehicle research at [IIIT Delhi](https://www.iiitd.ac.in/).
+- 💬 Open to collaborations. Talk to me about books, cubing, UFC, and anything in tech.
 
 
 ## Selected Publications
@@ -51,68 +46,8 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 ![Profile Views](https://komarev.com/ghpvc/?username=Sarim-MBZUAI&color=blue)
 
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original-wordmark.svg" title="ROS" alt="ROS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original-wordmark.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-</div>
+### :hammer_and_wrench: Tools
+Python · PyTorch · 🤗 Transformers · PEFT / LoRA · TRL · vLLM · LangGraph · MCP · FastAPI · Docker · CUDA · SLURM
 
-### :robot: LLM &amp; Agent Stack :
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1B1B1D?style=flat)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat&logo=crewai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
-![Transformers](https://img.shields.io/badge/%F0%9F%A4%97%20Transformers-FFD21E?style=flat)
-![PEFT / LoRA](https://img.shields.io/badge/%F0%9F%A4%97%20PEFT%20/%20LoRA-FFD21E?style=flat)
-![TRL](https://img.shields.io/badge/%F0%9F%A4%97%20TRL-FFD21E?style=flat)
-![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat&logo=vllm&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat)
-![Anthropic API](https://img.shields.io/badge/Anthropic%20API-D97757?style=flat&logo=anthropic&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![SLURM](https://img.shields.io/badge/SLURM-2C3E50?style=flat)
-
----
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)
-![LLM Agents](https://img.shields.io/badge/LLM%20Agents-success)
-![AI Security](https://img.shields.io/badge/AI%20Security-critical)
-![Adversarial Robustness](https://img.shields.io/badge/Adversarial%20Robustness-critical)
-![Prompt Injection](https://img.shields.io/badge/Prompt%20Injection-orange)
-![RAG](https://img.shields.io/badge/RAG-informational)
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-blueviolet)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-success)
-![Conversational AI](https://img.shields.io/badge/Conversational%20AI-9cf)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-yellowgreen)
-![Vision-Language Models](https://img.shields.io/badge/Vision--Language%20Models-yellowgreen)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-ff69b4)
-![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-blueviolet)
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-pink)
-
----
+### :dart: Interests
+AI security · LLM agents · prompt injection · RAG · fine-tuning · computer vision · vision-language models · diffusion models
