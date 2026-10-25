@@ -11,7 +11,7 @@
 
 > *The knowledge of anything, since all things have causes, is not acquired or complete unless it is known by its causes.* ~ ابن سینا (Ibn Sina)
 
-- 🎓 **Looking for PhD positions in AI security**, focused on agents that use retrieval, memory, and tools.
+
 - 🔬 Research Engineer at [MBZUAI](https://mbzuai.ac.ae/) with [Dr. Nils Lukas](https://nilslukas.github.io), working on secure, private, and strategic machine learning.
 - 🧪 Working on [AdvSim2Real](https://arxiv.org/abs/2610.08773), PERSUADE, [Noise Out, Bias In](https://arxiv.org/abs/2610.05894), [content authentication for real images](https://arxiv.org/abs/2610.05870), and contextual integrity for agents.
 - 📚 Previously: MSc by Research in Computer Vision at MBZUAI under [Dr. Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/); Mechanical Engineering at [Jamia Millia Islamia](https://jmi.ac.in/); autonomous-vehicle research at [IIIT Delhi](https://www.iiitd.ac.in/).
