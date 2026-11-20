@@ -14,6 +14,7 @@
 
 - 🔬 Research Engineer at [MBZUAI](https://mbzuai.ac.ae/) with [Dr. Nils Lukas](https://nilslukas.github.io), working on secure, private, and strategic machine learning. Contributed to the [Etihad chatbot](https://www.etihad.com/en-ae/help), now live.
 - 🧪 Working on [AdvSim2Real](https://arxiv.org/abs/2610.08773), PERSUADE, [Noise Out, Bias In](https://arxiv.org/abs/2610.05894), [content authentication for real images](https://arxiv.org/abs/2610.05870), and contextual integrity for agents.
+- 🗺️ [What I work on](https://sarim-mbzuai.github.io/work/): a map of my research topics, the problems under each, and the papers on them.
 - 📚 Previously: MSc by Research in Computer Vision at MBZUAI under [Dr. Mohammad Yaqub](https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/); Mechanical Engineering at [Jamia Millia Islamia](https://jmi.ac.in/); autonomous-vehicle research at [IIIT Delhi](https://www.iiitd.ac.in/).
 - 💬 Open to collaborations. Talk to me about books, cubing, UFC, and anything in tech.
 
@@ -38,11 +39,11 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 - 🏆 Winner, Eyes on Heritage Hackathon 2026 (Natural History Museum Abu Dhabi · Awarded AED 8,000 ≈ USD 2,180)
 - 🏆 Winner, Amazon Experience Hackathon 2026 (Khalifa University, Abu Dhabi · Awarded AED 9,000 ≈ USD 2,450) · 🏆 Winner, Cursor x Evoost AI Hackathon 2026
 - 🏆 Winner, TAMMathon 2025 (Awarded AED 25,000 ≈ USD 6,800) · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
-- :united_arab_emirates: UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
+- <img src="https://raw.githubusercontent.com/Sarim-MBZUAI/Sarim-MBZUAI.github.io/main/public/images/news/uae.png" width="16" height="16" alt="UAE" valign="middle"> UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
 
 
 ## Some of my Github Public Stats
-[![My Github Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sarim-MBZUAI&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Sarim-MBZUAI)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Sarim-MBZUAI&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Sarim-MBZUAI)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sarim-MBZUAI&color=blue)
 
