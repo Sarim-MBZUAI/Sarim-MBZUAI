@@ -39,7 +39,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=RMcwdxkA
 - 🏆 Winner, Eyes on Heritage Hackathon 2026 (Natural History Museum Abu Dhabi · Awarded AED 8,000 ≈ USD 2,180)
 - 🏆 Winner, Amazon Experience Hackathon 2026 (Khalifa University, Abu Dhabi · Awarded AED 9,000 ≈ USD 2,450) · 🏆 Winner, Cursor x Evoost AI Hackathon 2026
 - 🏆 Winner, TAMMathon 2025 (Awarded AED 25,000 ≈ USD 6,800) · 🥉 3rd place, MICCAI BraTS 2025 (SSA) and BraTS 2024 (SSA & Pediatrics)
-- <img src="https://raw.githubusercontent.com/Sarim-MBZUAI/Sarim-MBZUAI.github.io/main/public/images/news/uae.png" width="16" height="16" alt="UAE" valign="middle"> UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
+- <img src="https://raw.githubusercontent.com/Sarim-MBZUAI/Sarim-MBZUAI.github.io/main/public/images/news/golden-visa.png" width="18" height="18" alt="UAE Golden Visa" valign="middle"> UAE Golden Visa for outstanding academic achievement · 🎓 Fully funded MBZUAI Graduate Studies Scholarship
 
 
 ## Some of my Github Public Stats
